@@ -13,7 +13,7 @@
 </a>
 
 <ul align="left" width="425">
-<li>🔭 Currently working at <a href="http://www.globo.com">Rede Globo</a></li>
+<li>🔭 Currently working at <a href="http://www.capgemini.com">Capgemini</a></li>
 <li>🌱 Currently learning ReactJS and NodeJS</li>
 <li>💻 Currently working with the <a href="http://www.servicenow.com">Now Platform</a></li>
 <li>📫 Send me an <a href="mailto:renansouzaoliveira10@gmail.com">Email</a></li>
